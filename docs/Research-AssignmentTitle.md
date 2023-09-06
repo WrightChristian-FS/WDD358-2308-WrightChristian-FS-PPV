@@ -18,7 +18,7 @@ This article explores the debate of whether frontend and backend in web developm
 <br>
 
 ## Learn SQL: Types of relations 
-The article discusses three types of relations in databases: one-to-one, one-to-many, and many-to-many. It emphasizes the importance of understanding these relations in the context of designing a database model and analyzing data. The one-to-many relation is the most used and serves as the basis for the other two types. It is demonstrated through examples of storing customer data and call records between employees and customers. The many-to-many relation requires the addition of an intermediary table to connect two tables with multiple rows on each side. The one-to-one relation is rarely used and typically involves storing specific details separately for an entity in a separate table.
+The article discusses three types of relations in databases: one-to-one, one-to-many, and many-to-many. It emphasizes the importance of understanding these relations in the context of designing a database model and analyzing data. The one-to-many relation is the most used and serves as the basis for the other two types. It is demonstrated through examples of storing customer data and call records between employees and customers. The many-to-many relation requires the addition of an intermediary table to connect two tables with multiple rows on each side. The one-to-one relation is rarely used and typically involves storing specific details separately for an entity in a separate table. 
 
 
 
