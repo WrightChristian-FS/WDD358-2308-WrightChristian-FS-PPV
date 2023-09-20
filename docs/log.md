@@ -4,7 +4,7 @@
 
 
 # Project & Portfolio
-### First & Last Name 
+### Christian Wright 
 
 
 ![Degree Program](https://img.shields.io/badge/degree-web%20design%20%26%20development-blue.svg)&nbsp; 
@@ -27,20 +27,33 @@ Each week I will summarize my milestone activity and progress by writing a stand
 <br>
 
 ### Week 1
-🌵 Challenges - This week the biggest challenge that I am having is understanding the Github workflow. 
+🌵 Challenges - In Week 1, I encountered three significant hurdles. Firstly, I grappled with time management. Secondly, I had to redefine my understanding of APIs. Previously, I believed APIs were exclusively for linking the front-end and back-end of an application, but I also discovered they serve to connect different applications. Lastly, I struggled to pinpoint the correct repository to work on. 
+
 <br>
-🏆 Accomplishments - I was able to successfully create a project proposal. I was able to also create a db diagram based off the project proposal. 
+🏆 Accomplishments - I successfully crafted a project proposal and followed it up by creating a database diagram aligned with the proposal.
 <br>
 🔮 Next Steps - I will continue to work on understanding the github workflow. 
 
 
 ### Week 2
 
-My next stand up will go here...
+🌵 Challenges - Throughout Week 2, my challenges persisted, particularly in the realm of time management. Additionally, I grappled with comprehending the appropriate and anticipated GitHub workflow.
+
+<br>
+🏆 Accomplishments - In Week 2, I successfully wrapped up my research and finished my routing assignment.
+<br>
+🔮 Next Steps - I will continue to work on understanding the github workflow. 
+
 
 ### Week 3
 
-Stay tuned, this stand up is coming soon...
+🌵 Challenges - Throughout Week 2, my challenges persisted, particularly in the realm of time management. Additionally, I grappled with comprehending the appropriate and anticipated GitHub workflow.
+
+<br>
+🏆 Accomplishments - In Week 2, I successfully wrapped up my research and finished my routing assignment.
+<br>
+🔮 Next Steps - I will continue to work on understanding the github workflow. 
+
 
 ### Week 4
 
