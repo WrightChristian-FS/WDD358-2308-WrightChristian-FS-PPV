@@ -22,37 +22,39 @@ Outside of the two topics listed above, you can also include in this research, n
 # Project & Portfolio 
 
 * **Research 3 — State Management**
-* **First Last Name**
-* **Assignment Due Date**
+* **Christian Wright**
+* **September 23,2023**
 
 <br>
 
 
-## Sub-Topic 1
-Brief overview of research. 
-
-* Key finding 1...
-* 2
-* 3 
+## Redux Essentials, Part 1: Redux Overview and Concepts
+The article "Redux Essentials: Part 1 - Overview and Concepts" provides a comprehensive introduction to Redux, a crucial state management library for JavaScript applications. It dives into the core concepts of Redux, including actions, reducers, and the unidirectional data flow, highlighting Redux's role in managing complex application states. The article provides the benefits of predictability and maintainability, the article then showcases the importance of Redux in modern web development. 
 
 <br>
 
-## Sub-Topic 2
-Brief overview of research. 
+## Built-in React Hooks 
+The article comes from official reference guide for React, which introduces and covers the library's core concepts, components, and APIs. This particular documentation covers the different types of native React hooks. State, Context, Ref, Effect, Performance, and resource hooks are all covered in this article. The article also takes a deep dive into the different use cases for each hook and provides additional links into more specific sub-topics. 
 
-* Key finding 1...
-* 2
-* 3 
 
 <br>
 
-## Sub-Topic 3
-Brief overview of research. 
+## Do you need Redux? 
+The article addresses the issue and temptation of adopting Redux prematurely in React applications and emphasizes the importance of understanding the trade-offs it offers. It acknowledges that Redux introduces indirection and constraints but highlights the benefits, such as ease of state persistence, bug reporting, collaborative features, undo history, and more.
 
-* Key finding 1...
-* 2
-* 3 
+The article recommends that the reader have a complete understanding of React fundamentals before moving to Redux. The author explains that the Redux concepts can be implemented without using Redux. 
 
+<br>
+
+## Understanding what React Redux Does 
+This article explains the relationship between Redux and React.Then describes the role of a "UI binding" library, like React Redux, It outlines the typical steps required when using Redux with any UI layer and how a UI binding library streamlines this process, making it more efficient and reusable.
+
+Furthermore, the article underscores React Redux's significance as the official Redux binding library for React, ensuring compatibility and up-to-date API changes between the two libraries. It also emphasizes the performance optimizations offered by React Redux, which help reduce unnecessary re-renders in React components and improve overall application performance.
+
+<br>
+
+## Redux Devtools 
+The article discusses the powerful features offered by Redux DevTools for debugging React applications, particularly in large-scale projects. It highlights features like tracing actions to pinpoint their causes, navigating to the codebase directly from DevTools, skipping and jumping between actions in the timeline, custom dispatching for testing purposes, and allowing/blocking specific actions for monitoring.
 
     
 <br>
