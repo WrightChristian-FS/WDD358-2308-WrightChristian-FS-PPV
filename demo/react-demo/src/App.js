@@ -15,9 +15,10 @@ class App extends Component {
     return (
       <Router>
         <div className={styles.body}>
-          <div className={styles.main_container}>
+          <div className={styles.main_container}> 
             <>
               <Routes>
+                {/* UPDATE THE CODE */}
                 <Route path="/" element={<Header />} />
                 <Route path="/" element={<Landing />} />
                 <Route path="(/login/slack/callback)" element={<Login />} />
