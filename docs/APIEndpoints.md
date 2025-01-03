@@ -4,7 +4,6 @@
 * **Christian Wright**
 * **September 10, 2023**
 
-Certainly, here is your provided information converted into Markdown format:
 
 # Asset Management
 
